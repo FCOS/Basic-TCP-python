@@ -1,3 +1,6 @@
+#Fergal O'Shea
+#2017
+
 import struct
 from socket import *
 import random
